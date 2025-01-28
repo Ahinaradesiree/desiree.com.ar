@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahinara Desiree</title>
+ <title>Botones para Secciones</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Botones de navegación -->
+    <nav>
+        <button class="btn" onclick="location.href='#seccion1'">Ir a Sobre mi</button>
+        <button class="btn" onclick="location.href='#seccion2'">Ir a Mi trabajo</button>
+        <button class="btn" onclick="location.href='#seccion3'">Ir a Contacto</button>
+    </nav>
+
+    <header>
+        <h1>Bienvenido a mi portafolio</h1>
+    </header>
+
+   <!-- Secciones de la página -->
+    <section id="seccion1">
+        <h2>Sobre mi</h2>
+        <p>Soy una joven diseñadora grafica co una gran pasion por mi trabajo. Mi entusiasmo y dedicacion se reflejan en la calidad de mis proyectos, los cuales abarcan un amplio espectro de diseño, incluyendo la creacion de logotipos corporativos, folletos publicitarios, portadas de libros y tarjetas de presentaciones, entre otros. Poseo un alto nivel de compromiso y una capacidad de trabajo incansable, lo que me permite dedicar mi tiempo completo a mis proyecto. Mi amor por el diseño grafico me impulsa a buscar constantemene la excelencia  a superar las expectativas de mis clientes </p>
+    </section>
+
+    <section id="seccion2">
+        <h2>Mi trabajo</h2>
+        <p>Como veran tengo una gran versatilidad y puedo manejar los diferentes rubros de temas y diseños.</p>
+    </section>
+	<title>Trabajos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="galeria">
+        <img src="aye 1.jpg" alt="Imagen 1" class="imagen">
+        <img src="aye 2.jpg" alt="Imagen 2" class="imagen">
+        <img src="aye 3.jpg" alt="Imagen 3" class="imagen">
+        <img src="aye 4.jpg" alt="Imagen 4" class="imagen">
+        <img src="aye 5.jpg" alt="Imagen 5" class="imagen">
+        <img src="aye 6.jpg" alt="Imagen 6" class="imagen">
+        <img src="aye 7.jpg" alt="Imagen 7" class="imagen">
+        <img src="aye 8.jpg" alt="Imagen 8" class="imagen">
+        <img src="aye 9.jpg" alt="Imagen 9" class="imagen">
+        <img src="aye 10.jpg" alt="Imagen 10" class="imagen">
+        <img src="pame 41.jpg" alt="Imagen 11" class="imagen">
+        <img src="pame 41 2.0.jpg" alt="Imagen 12" class="imagen">
+        <img src="tv black.jpg" alt="Imagen 13" class="imagen">
+        <img src="tv blanco.jpg" alt="Imagen 14" class="imagen">
+        <img src="tv blanco y negro.jpg" alt="Imagen 15" class="imagen">
+        <img src="tv negro violeta.jpg" alt="Imagen 16" class="imagen">
+        <img src="tv circular.jpg" alt="Imagen 17" class="imagen">
+        <img src="valen 2023.jpg" alt="Imagen 18" class="imagen">
+        <img src="juana frozen.jpg" alt="Imagen 19" class="imagen">
+        <img src="alma.jpg" alt="Imagen 20" class="imagen">
+        <img src="ahinara fest.jpg" alt="Imagen 21" class="imagen">
+        <img src="ahinara y renzo.jpg" alt="Imagen 22" class="imagen">
+        <img src="meta 1.jpg" alt="Imagen 23" class="imagen">
+        <img src="meta 2.jpg" alt="Imagen 24" class="imagen">
+        <img src="meta 3.jpg" alt="Imagen 25" class="imagen">
+        <img src="por lecturas.jpg" alt="Imagen 26" class="imagen">
+        <img src="benicio.jpg" alt="Imagen 27" class="imagen">
+    </div>
+</body>
+</html>
+    </section>
+
+    <section id="seccion3">
+        <h2>Contacto</h2>
+        <p>Encontrame y contactame por la plataforma Fiverr o via Email a la direccion de correo ahinaracricri@gmail.com.</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Ahinara Desiree</p>
+    </footer>
+</body>
+</html>h7uip¡
+<link rel="stylesheet" href="style.css">
